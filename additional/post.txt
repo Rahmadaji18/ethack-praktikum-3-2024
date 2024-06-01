@@ -1,0 +1,14 @@
+POST /register HTTP/1.1
+Host: 167.172.75.216
+Content-Length: 49
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.118 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: http://167.172.75.216
+Referer: http://167.172.75.216/register
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: td_cookie=2965683574
+Connection: close
+
+{"username":"Username18","password":"P@ssword34"}
